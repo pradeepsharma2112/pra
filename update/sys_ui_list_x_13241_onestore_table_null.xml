@@ -28,19 +28,19 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-16 06:21:01</sys_created_on>
+            <sys_created_on>2017-11-16 06:22:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f4764944f220300f3823879b110c775</sys_id>
+            <sys_id>a7a72c944f220300f3823879b110c7a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_13241_onestore_table</sys_name>
-            <sys_package display_value="onestore" source="x_13241_onestore">4147ac544f220300f3823879b110c746</sys_package>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
             <sys_scope display_value="onestore">4147ac544f220300f3823879b110c746</sys_scope>
-            <sys_update_name>sys_ui_list_x_13241_onestore_table_null</sys_update_name>
+            <sys_update_name/>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-16 06:21:01</sys_updated_on>
-            <sys_user/>
+            <sys_updated_on>2017-11-16 06:22:39</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>
